@@ -1,0 +1,81 @@
+--2020-12-15 18:11:35--  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Resolving deeplearning.net (deeplearning.net)... 132.204.26.28
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-15 23:43:55--  (try: 2)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-15 23:46:08--  (try: 3)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-15 23:48:22--  (try: 4)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-15 23:50:36--  (try: 5)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-15 23:52:52--  (try: 6)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-15 23:55:09--  (try: 7)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-15 23:57:25--  (try: 8)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-15 23:59:43--  (try: 9)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-16 00:02:01--  (try:10)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-16 00:04:21--  (try:11)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-16 00:06:41--  (try:12)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-16 00:09:00--  (try:13)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-16 00:11:19--  (try:14)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-16 00:13:38--  (try:15)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-16 00:15:58--  (try:16)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-16 00:18:17--  (try:17)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-16 00:20:36--  (try:18)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-16 00:22:55--  (try:19)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Retrying.
+
+--2020-12-16 00:25:15--  (try:20)  http://deeplearning.net/data/mnist/mnist.pkl.gz
+Connecting to deeplearning.net (deeplearning.net)|132.204.26.28|:80... failed: Connection timed out.
+Giving up.
+
